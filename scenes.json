@@ -1,1 +1,6 @@
-{"scenes":[{"id":"oria","label":"Oria","count":5}]}
+{
+  "scenes": [
+    {"id":"oria","label":"Oria","count":5},
+    {"id":"landing-frame-for-flyers","label":"LS Landing Entry — FrameForFlyers","destination":"landing","count":64}
+  ]
+}

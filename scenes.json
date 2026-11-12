@@ -2,6 +2,7 @@
   "scenes": [
     {"id":"oria","label":"Oria","count":5},
     {"id":"landing-frame-for-flyers","label":"LS Landing Entry — FrameForFlyers","destination":"landing","count":64},
-    {"id":"grove-board","label":"The Grove — The Grove Github Bull","destination":"grove-board","count":64}
+    {"id":"grove-board","label":"The Grove — The Grove Github Bull","destination":"grove-board","count":64},
+    {"id":"snowcap-mountain","label":"Snowcap Mountain","count":6,"slotLabels":["NewPromoStand","NewPromoStand (1)","NewPromoStand (5)","NewPromoStand (2)","NewPromoStand (3)","NewPromoStand (11)"]}
   ]
 }

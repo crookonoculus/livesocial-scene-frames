@@ -9,6 +9,7 @@
     {"id":"lsvr-podcast-studio","label":"LSVR Podcast Studio","count":8,"slotLabels":["Divider_Poster_01_Artwork","Divider_Poster_02_Artwork","Divider_Poster_03_Artwork","Divider_Poster_04_Artwork","Divider_Poster_05_Artwork","Divider_Poster_06_Artwork","Divider_Poster_07_Artwork","Divider_Poster_08_Artwork"]},
     {"id":"lsvr-theatre","label":"LSVR Theatre — Cinema Movie Ads","count":12,"slotLabels":["Movie Ad 1","Movie As 2","Movie Ad 3","Movie Ad 4","Movie Ad 5","Movie Ad 6","Movie Ad 7","Movie Ad 8","Movie Ad 9","Movie Ad 10","Movie Ad 11","Movie Ad 12"]},
     {"id":"galaxy5","label":"Galaxy5","count":1,"slotLabels":["Galaxy5 Ad Frame"]},
-    {"id":"nirvana","label":"Nirvana","count":1,"slotLabels":["Nirvana Ad Frame"]}
+    {"id":"nirvana","label":"Nirvana","count":1,"slotLabels":["Nirvana Ad Frame"]},
+    {"id":"savoy","label":"Savoy","count":1,"slotLabels":["Savoy Ad"]}
   ]
 }

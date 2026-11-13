@@ -4,6 +4,7 @@
     {"id":"landing-frame-for-flyers","label":"LS Landing Entry — FrameForFlyers","destination":"landing","count":64},
     {"id":"grove-board","label":"The Grove — The Grove Github Bull","destination":"grove-board","count":64},
     {"id":"snowcap-mountain","label":"Snowcap Mountain","count":6,"slotLabels":["NewPromoStand","NewPromoStand (1)","NewPromoStand (5)","NewPromoStand (2)","NewPromoStand (3)","NewPromoStand (11)"]},
-    {"id":"apt-311-ls","label":"Apt 311 LS","count":2,"slotLabels":["Ad Frame 1","Ad Frame 2"]}
+    {"id":"apt-311-ls","label":"Apt 311 LS","count":2,"slotLabels":["Ad Frame 1","Ad Frame 2"]},
+    {"id":"ojia","label":"Ojia","count":7,"slotLabels":["Ojia Ad Frame 1","Ojia Ad Frame 2","Ojia Ad Frame 3","Ojia Ad Frame 4","Ojia Ad Frame 5","Ojia Ad Frame 6","Ojia Ad Frame 7"]}
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "slots": [
+    {
+      "file": "slot-1-edb4d7147f3a559fe34c3d1fffc53ac69ccb2573b91a919cd0cd487b85a0e7cf.png",
+      "label": "Flyer_01_Placeholder.png"
+    },
+    {
+      "file": "slot-2-823baa937b9570d3eb94001c138ef616ccbb14d0d4dddeb6edf7e71cef59824a.png",
+      "label": "Flyer_02_Placeholder.png"
+    },
+    {
+      "file": "slot-3-583c8adc323ce6dd1e87ecbde91bef1d919cf288ddbf80c73908e9e71b8f7452.png",
+      "label": "Flyer_03_Placeholder.png"
+    },
+    {
+      "file": "slot-4-851ac9ef69941896d3615ababb700fa540778cf9c40f6e849e4ec3af827892ac.png",
+      "label": "Flyer_04_Placeholder.png"
+    },
+    {
+      "file": "slot-5-e13414a5cb6ce20de58222a0423a47bb6453eb837b9a4da41a5c0276a2c6c2f9.png",
+      "label": "Flyer_05_Placeholder.png"
+    },
+    {
+      "file": "slot-6-1bbe1de6256583eedd5642f3992085ed47ad002901bb8ea79edb3e50462d27b6.png",
+      "label": "Flyer_06_Placeholder.png"
+    },
+    {
+      "file": "slot-7-8e73d1122d850c81dec2787dc37428980d6ec36ac342af03e30ea4db20cccc2f.png",
+      "label": "Flyer_07_Placeholder.png"
+    },
+    {
+      "file": "slot-8-7bba72a3f695e36508ce2274adb77183cb514037b6faace5151cec1eeb4e57fb.png",
+      "label": "Flyer_08_Placeholder.png"
+    }
+  ]
+}

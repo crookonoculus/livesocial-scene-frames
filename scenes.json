@@ -5,6 +5,7 @@
     {"id":"grove-board","label":"The Grove — The Grove Github Bull","destination":"grove-board","count":64},
     {"id":"snowcap-mountain","label":"Snowcap Mountain","count":6,"slotLabels":["NewPromoStand","NewPromoStand (1)","NewPromoStand (5)","NewPromoStand (2)","NewPromoStand (3)","NewPromoStand (11)"]},
     {"id":"apt-311-ls","label":"Apt 311 LS","count":2,"slotLabels":["Ad Frame 1","Ad Frame 2"]},
-    {"id":"ojia","label":"Ojia","count":7,"slotLabels":["Ojia Ad Frame 1","Ojia Ad Frame 2","Ojia Ad Frame 3","Ojia Ad Frame 4","Ojia Ad Frame 5","Ojia Ad Frame 6","Ojia Ad Frame 7"]}
+    {"id":"ojia","label":"Ojia","count":7,"slotLabels":["Ojia Ad Frame 1","Ojia Ad Frame 2","Ojia Ad Frame 3","Ojia Ad Frame 4","Ojia Ad Frame 5","Ojia Ad Frame 6","Ojia Ad Frame 7"]},
+    {"id":"lsvr-podcast-studio","label":"LSVR Podcast Studio","count":8,"slotLabels":["Divider_Poster_01_Artwork","Divider_Poster_02_Artwork","Divider_Poster_03_Artwork","Divider_Poster_04_Artwork","Divider_Poster_05_Artwork","Divider_Poster_06_Artwork","Divider_Poster_07_Artwork","Divider_Poster_08_Artwork"]}
   ]
 }

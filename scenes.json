@@ -1,6 +1,7 @@
 {
   "scenes": [
     {"id":"oria","label":"Oria","count":5},
+    {"id":"oria-patreon-ads","label":"Oria — Patreon Ads","count":3,"slotLabels":["Patreon Ad 1","Patreon Ad 2","Patreon Ad 3"]},
     {"id":"landing-frame-for-flyers","label":"LS Landing Entry — FrameForFlyers","destination":"landing","count":64},
     {"id":"landing-big-world-screen","label":"LS Landing Entry — Big World Screen","count":9,"slotLabels":["Image 1","Image 2","Image 3","Image 4","Image 5","Image 6","Image 7","Image 8","Image 9"]},
     {"id":"grove-board","label":"The Grove — The Grove Github Bull","destination":"grove-board","count":64},

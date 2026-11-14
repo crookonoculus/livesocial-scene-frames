@@ -12,6 +12,7 @@
     {"id":"nirvana","label":"Nirvana","count":1,"slotLabels":["Nirvana Ad Frame"]},
     {"id":"savoy","label":"Savoy","count":1,"slotLabels":["Savoy Ad"]},
     {"id":"sunset-bay","label":"SunsetBay","count":2,"slotLabels":["PICFRAMETO","PICFRAMETO (1)"]},
-    {"id":"lsvr-karaoke-ads","label":"LSVR Karaoke — Frame Ads","count":6,"slotLabels":["Karaoke Ad 1","Karaoke Ad 2","Karaoke Ad 3","Karaoke Ad 4","Karaoke Ad 5","Karaoke Ad 6"]}
+    {"id":"lsvr-karaoke-ads","label":"LSVR Karaoke — Frame Ads","count":6,"slotLabels":["Karaoke Ad 1","Karaoke Ad 2","Karaoke Ad 3","Karaoke Ad 4","Karaoke Ad 5","Karaoke Ad 6"]},
+    {"id":"trans-opulence","label":"TransOpulence","count":1,"slotLabels":["Trans Op Ad Frame"]}
   ]
 }

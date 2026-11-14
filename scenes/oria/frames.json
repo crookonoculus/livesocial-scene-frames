@@ -1,24 +1,24 @@
 {
-  "slots": [
-    {
-      "file": "slot-1-d7660d5294b8a4498987466c3e7a5f283e9c0cf0f460010b61258dded8dac580.png",
-      "label": "sunday snowcap"
-    },
-    {
-      "file": "slot-2-9758132bdc3efff4a2b725ae5901e57c0d285e3cbe41504b873760d8a84a3153.png",
-      "label": "Kara1 5"
-    },
-    {
-      "file": "slot-3-e0ea69824b0b17002bf51eab327d2281079f3e9fb37a27826832fef8b9e329ab.png",
-      "label": "Kara1"
-    },
-    {
-      "file": "slot-4-cc0d9e448147df23918e0fed8bc905b1aa5a55d1e799abc54b60376c7e5ef6dc.png",
-      "label": "Kara an apt311 party"
-    },
-    {
-      "file": "slot-5-67dcafb904c271c55055d4f7fec1831f58cdf0d6cee9da664be935208a2de777.png",
-      "label": "Kara1 3"
-    }
-  ]
+    "slots":  [
+                  {
+                      "file":  "slot-1-d7660d5294b8a4498987466c3e7a5f283e9c0cf0f460010b61258dded8dac580.png",
+                      "label":  "sunday snowcap"
+                  },
+                  {
+                      "file":  "slot-2-9758132bdc3efff4a2b725ae5901e57c0d285e3cbe41504b873760d8a84a3153.png",
+                      "label":  "Kara1 5"
+                  },
+                  {
+                      "file":  "slot-3-e0ea69824b0b17002bf51eab327d2281079f3e9fb37a27826832fef8b9e329ab.png",
+                      "label":  "Kara1"
+                  },
+                  {
+                      "file":  "slot-4-cc0d9e448147df23918e0fed8bc905b1aa5a55d1e799abc54b60376c7e5ef6dc.png",
+                      "label":  "Kara an apt311 party"
+                  },
+                  {
+                      "file":  "slot-5-c6d330bf25a527d566a365b93be27de84c5fdde050f3ec9e471042e973cdfe20.png",
+                      "label":  "New Patreon.png"
+                  }
+              ]
 }

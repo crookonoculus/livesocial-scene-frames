@@ -1,4 +1,6 @@
 {
-  "displaySeconds": 3,
-  "images": []
+    "displaySeconds":  3,
+    "images":  [
+                   "https://raw.githubusercontent.com/crookonoculus/livesocial-scene-frames/main/images/55e868403409173e464b6fd529848165ee7ef814214c8f637e8ca0f63b032ac3.png"
+               ]
 }
